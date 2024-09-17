@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial;
+}
+#sub2,#sub3{
+    margin-top: 800px;
+
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+background-color: red;
+color: white;
+    }
